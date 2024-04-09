@@ -9,3 +9,7 @@ Assumptions:
 Potential use cases:
 
 - Removing colored text from the latex source file of revised manuscripts. 
+
+Remarks:
+
+- Authors have to manually remove the command definition themselves.
